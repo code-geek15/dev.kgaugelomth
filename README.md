@@ -6,8 +6,4 @@ If you have any questions, feedback, or just want to connect, don't hesitate to 
 
 Happy coding!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-geek15)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-geek15&show_icons=true)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-geek15&show_icons=true&theme=radical)
