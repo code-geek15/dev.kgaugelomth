@@ -14,8 +14,8 @@ Happy coding!
 
 ## Explore Our Latest Attendance Repository
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-New%20Repo-blue?style=flat-square&logo=github)](https://github.com/Geeks4LearningJHB/LMS-Attendance-2)
+🔗 [![GitHub Repository](https://img.shields.io/badge/GitHub-Attendance-blue?style=flat-square&logo=github)](https://github.com/Geeks4LearningJHB/LMS-Attendance-2)
 
-Click the link above or the 🔗 icon to access our new Attendance repository.
+Click the link above to access our new Attendance repository.
 
 
