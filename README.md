@@ -12,7 +12,7 @@ Happy coding!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-geek15&show_icons=true&theme=radical) 
 
 
-# Explore Our Latest Attendance Repository
+# 🆕 Explore Our Latest Attendance Repository
 
 # 🔗 [![GitHub Repository](https://img.shields.io/badge/GitHub-Attendance%20New%20Repository-blue?style=flat-square&logo=github)](https://github.com/Geeks4LearningJHB/LMS-Attendance-2)
 
