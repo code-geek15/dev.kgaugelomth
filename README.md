@@ -12,5 +12,9 @@ Happy coding!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-geek15&show_icons=true&theme=radical) 
 
 
-[Click here to jump to a new repo](https://github.com/Geeks4LearningJHB/LMS-Attendance-2)
+## Explore Our Latest Repository
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-New%20Repo-blue?style=flat-square&logo=github)](https://github.com/Geeks4LearningJHB/LMS-Attendance-2)
+
+Click the link above to access our new Attendance repository.
 
