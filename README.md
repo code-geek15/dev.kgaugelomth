@@ -12,5 +12,5 @@ Happy coding!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-geek15&show_icons=true&theme=radical) 
 
 
-[Link Text](https://github.com/Geeks4LearningJHB/LMS-Attendance-2)
+[Click here to jump to a new repo](https://github.com/Geeks4LearningJHB/LMS-Attendance-2)
 
